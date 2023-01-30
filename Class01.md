@@ -19,5 +19,12 @@ You can use **_two_** **astericks** followed by an _underscore_ or __*two*__ __u
 it is **_good practice_** leave a blank line before and after **block quotes**
 
 Creating a **list** is easy
+1. create **ordered lists**
+2. by adding line items
+3. with numbers followed by periods
+4. the numbers dont have to be in
+7. numerical order
+10. the list just needs to 
+5. start with the number 1 
 
 
