@@ -49,6 +49,7 @@ To create an __unordered list__
               <title>code block</title>
             </head>
     10. or an image
-      ![A photograph](https://drive.google.com/file/d/1NK_zrG5EvQOAlB3xZu8DkFQJ4zoboP14/view?usp=share_link)
+      ![A photograph](https://www.gannett-cdn.com/presto/2021/03/22/NRCD/9d9dd9e4-e84a-402e-ba8f-daa659e6e6c5-PhotoWord_003.JPG)
+  - It is also possible to create an ordered list within an unordered list and vice versa
   
 
