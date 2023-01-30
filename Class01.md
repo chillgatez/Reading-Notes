@@ -13,8 +13,8 @@ You can use **_two_** **astericks** followed by an _underscore_ or __*two*__ __u
 >
 > Add *>* in the blank lines between for *block quotes* with **multiple paragraphs**
 >> for **nested quotes** double up on *>*
->> -You can add elements like *__this bullet point__*
->> You can also **bold** and *italicize* text withing the *nested quote*
+>> - You can add elements like *__this bullet point__*
+>> - You can also **bold** and *italicize* text withing the *nested quote*
 
 it is **_good practice_** leave a blank line before and after **block quotes**
 
