@@ -7,7 +7,9 @@ Line breaks are created by *leaving two spaces after the first line*.
 Use double **astericks** or double __underscores__ for **bold** text.  
 Use a single *asterick* or single _underscore_ to italicize.  
 Triple up for a ***combination*** **of the two**  
-You can use **_two_** **astericks** followed by an _underscore_ or __*two*__ __underscores__ followed by an *asterick*
+You can use **_two_** **as
+
+tericks** followed by an _underscore_ or __*two*__ __underscores__ followed by an *asterick*
 
 >**Block quotes** are simple  just add **>** in front of a paragraph
 >
@@ -27,4 +29,11 @@ Creating a **list** is easy
 10. the list just needs to 
 5. start with the number 1 
 
+To create an __unordered list__
+- use - + or * in front of line itmes
+- you __can not create__ an unordered list using differnt characters
+  - i.e.
+  -  - line item
+  -  * line item
+  -  + line item
 
