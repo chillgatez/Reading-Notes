@@ -1,6 +1,6 @@
 ## Class 01
 
-### Today we are reading from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
+### Today we learned about headings from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
 
 Paragraphs are created by *leaving a space between lines*.  
 Line breaks are created by *leaving two spaces after the first line*.  
@@ -49,11 +49,7 @@ To create an __unordered list__
               <title>code block</title>
             </head>
     10. or an image
-      ![A photograph](https://shootq.com/wp-content/uploads/2017/05/PhotographDefinitionPost-940x425.png)
- - It is also possible to create an ordered list within an unordered list and vice versa
- - Im going to close this list out by using _three_ underscores on a single line to create a __horitontal rule__
- - You can also use *asterisks* or *dashes*
-  
-  __________
+      ![A photograph](https://www.gannett-cdn.com/presto/2021/03/22/NRCD/9d9dd9e4-e84a-402e-ba8f-daa659e6e6c5-PhotoWord_003.JPG)
+  - It is also possible to create an ordered list within an unordered list and vice versa
   
 
