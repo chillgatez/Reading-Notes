@@ -50,9 +50,9 @@ To create an __unordered list__
             </head>
     10. or an image
       ![A photograph](https://shootq.com/wp-content/uploads/2017/05/PhotographDefinitionPost-940x425.png)
-  - It is also possible to create an ordered list within an unordered list and vice versa
-  - Im going to close this list out by using _three_ underscores on a single line to create a __horitontal rule__
-  - You can also use *asterisks* or *dashes*
+ - It is also possible to create an ordered list within an unordered list and vice versa
+ - Im going to close this list out by using _three_ underscores on a single line to create a __horitontal rule__
+ - You can also use *asterisks* or *dashes*
   
   __________
   
