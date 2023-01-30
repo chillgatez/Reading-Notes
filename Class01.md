@@ -32,16 +32,23 @@ Creating a **list** is easy
 To create an __unordered list__
 - use - + or * in front of line itmes
 - you __can not create__ an unordered list using different characters
-  - i.e.
-  -  "-" line item
-  -  "*" line item
-  -  "+" line item
-  -  indent one of more items to create a __nested list__
-  -  use _backslash_ to start a list with a number followed by a period
-  -  102\. you can add elements such as:
+  1. i.e.
+  2.  "-" line item
+  3.  "*" line item
+  4.  "+" line item
+  5.  indent one of more items to create a __nested list__
+  6.  use _backslash_ to start a list with a number followed by a period
+  7.  102\. you can add elements such as:
 
       a _paragraph_
-  - or
+  8. or
       > _block quote_
-
+  9. or
+          <html>
+            <head>
+              <title>code block</title>
+            </head>
+    10. or an image
+      ![A photograph](https://drive.google.com/file/d/1NK_zrG5EvQOAlB3xZu8DkFQJ4zoboP14/view?usp=share_link)
+  
 
