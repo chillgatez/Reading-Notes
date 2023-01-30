@@ -2,8 +2,7 @@
 
 ### Today we learned about headings from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
 
-Paragraphs are created by *leaving a space between lines*.
-
+Paragraphs are created by *leaving a space between lines*.  
 Line breaks are created by *leaving two spaces to create a new line*.
 Use double **astericks** or double __underscores__ for **bold** text.
 Use a single *asterick* or single _underscore_ to italicize
