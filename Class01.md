@@ -31,9 +31,9 @@ Creating a **list** is easy
 
 To create an __unordered list__
 - use - + or * in front of line itmes
-- you __can not create__ an unordered list using differnt characters
+- you __can not create__ an unordered list using different characters
   - i.e.
-  -  - line item
-  -  * line item
-  -  + line item
+  -  "-" line item
+  -  "*" line item
+  -  "+" line item
 
