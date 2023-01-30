@@ -38,4 +38,10 @@ To create an __unordered list__
   -  "+" line item
   -  indent one of more items to create a __nested list__
   -  use _backslash_ to start a list with a number followed by a period
-  -  1983\. 
+  -  102\. you can add elements such as:
+
+      a _paragraph_
+  - or
+      > _block quote_
+
+
