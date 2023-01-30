@@ -1,6 +1,6 @@
 ## Class 01
 
-### Today we learned about headings from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
+### Today we are reading from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
 
 Paragraphs are created by *leaving a space between lines*.  
 Line breaks are created by *leaving two spaces after the first line*.  
