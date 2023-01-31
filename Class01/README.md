@@ -8,8 +8,10 @@ Use double **astericks** or double __underscores__ for **bold** text.
 Use a single *asterick* or single _underscore_ to italicize.  
 Triple up for a ***combination*** **of the two**  
 You can use **_two_** **as
+tericks** followed by an _underscore_ or __*two*__ __underscores__ followed by an *asterick*  
+For <sub>subscript</sub> use \<sub\>  \</sub\>  
+For <sup>superscript</sup> use\<sup\> \</sup\>
 
-tericks** followed by an _underscore_ or __*two*__ __underscores__ followed by an *asterick*
 
 >**Block quotes** are simple  just add **>** in front of a paragraph
 >
@@ -32,24 +34,35 @@ Creating a **list** is easy
 To create an __unordered list__
 - use - + or * in front of line itmes
 - you __can not create__ an unordered list using different characters
-  1. i.e.
-  2.  "-" line item
-  3.  "*" line item
-  4.  "+" line item
-  5.  indent one of more items to create a __nested list__
+
+  1. for example:  
+  \- line item  
+  \* line item  
+  \+ line item
+
+  5.  indent one or more items to create a __nested list__
+
   6.  use _backslash_ to start a list with a number followed by a period
+
   7.  102\. you can add elements such as:
 
+
       a _paragraph_
+
   8. or
       > _block quote_
-  9. or
-          <html>
-            <head>
-              <title>code block</title>
-            </head>
-    10. or an image
-      ![A photograph](https://www.gannett-cdn.com/presto/2021/03/22/NRCD/9d9dd9e4-e84a-402e-ba8f-daa659e6e6c5-PhotoWord_003.JPG)
-  - It is also possible to create an ordered list within an unordered list and vice versa
+
+  9. or an image ![A Photograph](https://www.gannett-cdn.com/presto/2021/03/22/NRCD/9d9dd9e4-e84a-402e-ba8f-daa659e6e6c5-PhotoWord_003.JPG)
+  8. or
+```
+      <head>
+        <title>Code Block</title>
+      </head>
+```
+
+- It is also possible to create an ordered list within an unordered list and vice versa
+
+
+
   
 
