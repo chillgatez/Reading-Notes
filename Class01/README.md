@@ -61,6 +61,12 @@ To create an __unordered list__
 ```
 
 - It is also possible to create an ordered list within an unordered list and vice versa
+- To close out these notes I will use _at least **four** dashes to crate a horizontal rule  
+- You could also use _underscores_ or *asterisks*
+----
+
+Next: [Growth Mindset Summary](\Reading-Notes\Class01\Lab01)
+
 
 
 
