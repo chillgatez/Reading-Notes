@@ -1,18 +1,10 @@
-# Reading-Notes
-Notes for Code School
+# Reading Notes for Code School
 
-## [Class 01](\Reading-Notes\Class01)
+## [Coding 102](/Reading-Notes/102/)
 
-Today we are learning *markdown*
+Notes from Coding 102
 
-## [Class 02](\Reading-Notes\Class02)
+## [Coding 201](/Reading-Notes/201)
 
-Notes from class 2
-
-
-
-*****
-### *Things I Want to Know More About*
-- inserting code block into text
-- using different text colors and fonts
+Notes from Coding 201
 

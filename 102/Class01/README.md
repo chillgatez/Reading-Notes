@@ -1,4 +1,4 @@
-## Class 01
+## Class 1 Reading Notes
 
 ### Today we learned about headings from [Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)
 

@@ -1,4 +1,4 @@
-## Class 02
+## Class 2 Reading Notes
 ### Choosing a Text Editor
 ____
 #### Text Editor Basics
