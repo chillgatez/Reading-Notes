@@ -65,7 +65,7 @@ To create an __unordered list__
 - You could also use _underscores_ or *asterisks*
 ----
 
-Next: [Growth Mindset Summary](\Reading-Notes\Class01\Lab01)
+Next: [Growth Mindset Summary](/Reading-Notes/102/Class01/Lab01)
 
 
 
