@@ -22,8 +22,8 @@ __*In this class reading we will be addressing more foundational material in reg
     - Externally, internally, and inline.
 
 2. Why should we avoid using inline styles?  
-    - 
-    
+    - you are more likely to make mistakes.
+
 3. Review the block of code below and answer the following questions:  
     ```
        h2 {
@@ -55,10 +55,10 @@ __*In this class reading we will be addressing more foundational material in reg
 ### Making Decisions In Your Code – Conditionals.
 
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
-    - 
+    - condition, true
 
 2. What is the use of an ```else if```?
-    -
+    - 
 
 3. List 3 different types of comparison operators.
     -
