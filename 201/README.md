@@ -7,7 +7,7 @@ _____
 
 Notes from class 1
 
-## [Class 02](/Reading-Notes/201/Class02/class-01.md)
+## [Class 02](/Reading-Notes/201/Class02)
 
 Notes from class 2
 

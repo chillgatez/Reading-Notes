@@ -1,6 +1,6 @@
 # Getting Started: How the web works, design and process basics
 __*In this class reading we will be addressing foundational material in regards to website design and processing standards. These readings are meant to establish a fundemental understanding of web development*__
-_____
+
 ## Getting Started 
 1. Compose a short poem describing how HTTP sends data between computers.  
     - The browser sends an HTTP resquest  
@@ -46,7 +46,8 @@ _____
 1. What is the first step to designing a Website?  
     - Pick a goal. Define a topic. You have to know what you want the website to do.
 2. What is the most important question to answer when designing a Website?  
-    -  "What exactly do I want to accomplish?"
+    -  "What exactly do I want to accomplish?"  
+-----
 
 ### Semantics
 
@@ -54,15 +55,17 @@ _____
     - Because HTML should be coded to repesent the data that will be populated within the tags. Using a ```<span>``` tag to display top level heading inaccurately descibes the data within the tag. Search engines wouldn't pick up this heading as a heading.
 
 2. What are the benefits of using semantic tags in our HTML?  
-    -  Search engines consider important keywords to influence page search rankings, they can be used for accessibility purposes, makes it easier to navigate code blocks, etc.
+    -  Search engines consider important keywords to influence page search rankings, they can be used for accessibility purposes, makes it easier to navigate code blocks, etc.  
+-----
 
 ### What is JavaScript?
 
 1. Describe 2 things that require JavaScript in the Browser?  
-    - 
+    - Buttons, widgets, embedded data, etc
 2. How can you add JavaScript to an HTML document?  
     - You can add JavaScript internally by enclosing the script in a ```<script>``` tag. Or you can add a ```.js``` file in the same directory and refernce the file using ```<script src="filename.js" defer></script>```
 
+-----
 
 
 
