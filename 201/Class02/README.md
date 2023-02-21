@@ -58,13 +58,15 @@ __*In this class reading we will be addressing more foundational material in reg
     - condition, true
 
 2. What is the use of an ```else if```?
-    - 
+    - else if runs after an if statement evaluates to false.
 
 3. List 3 different types of comparison operators.
-    -
+    - ```<``` test if a value is less than another
+    - ```>``` tests if a value is grater than another
+    - ```===``` tests if a value is identical to another
 
 4. What is the difference between the logical operator ```&&``` and ```||```?
-    -
+    - ```&&``` requires both statements be true. of one is galse it will return a false value. ```||``` only requires one statement to be true to evaluate as true
 
 -----
 
