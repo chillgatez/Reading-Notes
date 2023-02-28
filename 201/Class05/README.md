@@ -27,10 +27,10 @@
     - We could start with changing the background. I would adjust the color of the text to contrast the color of the background. Maybe wrapping the blog content in some complimentary padding and add a border to each post.
 
 3. What should you consider when choosing fonts for an HTML document?
-    -
+    - Accessability, uniformity, 
     
 4. What do font-size, font-weight, and font-style do to HTML text elements?
-    - Font size changes the size of the font. When you think about it, it essentially changes the height of the lettering.  
+    - Font-size changes the size of the font. When you think about it, it essentially changes the height of the lettering.  
     - Font-weight adjusts boldness of the font; available weigths depend on font-family.
     - Font-style is inclusive of both elements; sets whether a font should be styled with a normal, italic, or oblique face from its font-family.  
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
