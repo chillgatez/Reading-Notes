@@ -14,14 +14,15 @@
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
     - If an object property name is held in a variable, then you can't use dot notation to access the value, but you can access the value using bracket notation.
 
-5. Evaluate the code below. What does the term ```this``` refer to and what is the advantage to using ```this```? 
-    ``` const dog = {
-    name: 'Spot',
-    age: 2,
-    color: 'white with black spots',
-    humanAge: function (){
-        console.log(`${this.name} is ${this.age*7} in human years`);
-    }
+5. Evaluate the code below. What does the term ```this``` refer to and what is the advantage to using ```this```?  
+     ``` 
+     const dog = {  
+        name: 'Spot',  
+        age: 2,  
+        color: 'white with black spots',  
+        humanAge: function (){  
+            console.log(`${this.name} is ${this.age*7} in human years`);
+        }
     }   
-    ```
+     ```
     - ```this``` refers to the current object the code is the being written inside. In this case ```this``` is refering to ```dog```. If you create more than one object literal ```this``` enables you to use the same method definition for every object you create.
