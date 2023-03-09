@@ -17,7 +17,7 @@
 Read up to “Flex-Flow Shorthand”
 
 1. What are some advantages of using flexbox over float?  
-    - Flexbox allows you to manipulate displays relationally in more ways than float. 
+    - Flexbox allows you to create layouts by align items to a single axis while float just manipulates the display.
 
 2. How does this topic connect with your long term goals?  
-    -
+    - I want to lean more about UX and front end development.
