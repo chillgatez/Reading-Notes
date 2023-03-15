@@ -14,10 +14,10 @@
 ## The JavaScript Debugger
 
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?  
-    -
+    - The debugger tool runs through your code and detects errors. It's the check engine light checker for your code. It won't necessarily tell you how to fix the problem but it will tell you that there is a problem and what could be causing it. 
 
 2. Define what a breakpoint is.  
-    -  A breakpoint is a where you pause execution in your code. You set a breakpoint to indentify problems that prevent your code from executing properly.
+    - A breakpoint is a where you pause execution in your code. You set a breakpoint to indentify problems that prevent your code from executing properly.
 
 3. What is the call stack?
-    - It shows you what code has been executed to get to your curre
+    - It's a list of functions that have been called up to the point of error. It shows you what code has been executed to get to the current line. 
