@@ -25,4 +25,4 @@
     - Learning transitions will allow me to add features to my website without using javaScript which makes my script more functional.
 
 
-# [Psychological Saftey](Reading-Notes/201/Class14/Psychological-Safety)
+# [Psychological Saftey](/Reading-Notes/201/Class14/Psychological-Safety)
