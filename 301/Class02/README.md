@@ -22,4 +22,4 @@
 3. When do we re-render our application?
     -
 4. What are some examples of things that we could store in state?
-    -forms and input data
+    - forms and input data
