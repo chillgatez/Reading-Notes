@@ -54,4 +54,4 @@
 3. How can you pass a method from a parent component into a child component?
     - you can use props to pass amehtod froma parent to a child component
 4. How does the child component invoke a method that was passed to it from a parent component?
-    - ```props.method```
+    - ```props.method``` 
