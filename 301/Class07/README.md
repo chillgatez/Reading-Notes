@@ -6,7 +6,7 @@
     - a framework that handles packages
 
 2. In your own words, what is Chrome’s V8 JavaScript Engine?
-    - I still don't understand.
+    - an open source JS that Chrome based browsers and applications use
 
 3. What does it mean that node is a JavaScript runtime?
     - it is as program that will allow us to execute JavaScript on our computers
@@ -20,8 +20,8 @@
 6. What version of npm are you running on your machine?
     - 9.5.1
 
-7. What command would you type to install a library/package called ‘jshint’?
-    -npm install -g jshint
+7. What command would you type to install a library/package called ‘jshint’
+    - npm install -g jshint
 
 8. What is node used for?
     - installing an running various build tools
