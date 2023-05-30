@@ -22,7 +22,7 @@
     - 410 "Gone" indicates that the requested resource was previously available, but it has been deleted or removed, and there is no forwarding address.
 
 1. What is the ‘Forbidden’ status code?
-    - 403. It indicates that the client is authenticated, but it does not have the necessary permissions to access the requested resource. This status code is used to indicate access denial to a resource for which the client lacks authorization.
+    - 403 indicates that the client is authenticated, but it does not have the necessary permissions to access the requested resource. This status code is used to indicate access denial to a resource for which the client lacks authorization.
 ------
 
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
