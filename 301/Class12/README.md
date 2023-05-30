@@ -46,4 +46,4 @@
 1. What does a ```500``` error status code mean?
     -  "500 Internal Server Error" it is a status code that indicates an unexpected condition occurred on the server while processing the request. This error typically indicates a problem on the server side. 
 1. What is the difference between a status ```200``` and a status ```201```?
-    - In summary, while both status codes indicate success, status 200 signifies a successful request with a response containing the requested data, whereas status 201 represents the successful creation of a new resource as a result of the request.
+    - Both status codes indicate success, status 200 signifies a successful request with a response containing the requested data, whereas status 201 represents the successful creation of a new resource as a result of the request.
