@@ -19,6 +19,6 @@ Notes from Coding 201
 
 Notes from Coding 301
 
-## [Code 301 - Advanced Software Development](/Reading-Notes/401)
+## [Code 401 - Advanced Software Development](/Reading-Notes/401)
 
 Notes from Coding 401

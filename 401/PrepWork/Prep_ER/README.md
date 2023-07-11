@@ -1,0 +1,11 @@
+# Prep: Engineering Readings
+
+1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+    - The one thing that sets me apart and brings value to my career and potential employers is my unique ability to think creatively and approach problem-solving from unconventional angles. I possess a vivid imagination that allows me to see possibilities and solutions that others might overlook. This enables me to bring fresh perspectives, innovative ideas, and out-of-the-box thinking to any project or challenge I encounter. My imaginative nature allows me to think beyond the boundaries of traditional solutions and come up with unique approaches that can make a real difference.
+
+2. What are 3 things I’ll start doing to "un-stick" myself whenever I get stuck on a tough piece of code, logic, or feature?
+    1. Engage in brainstorming and mind mapping: When facing a challenging code, logic, or feature, I will take the time to brainstorm and map out my thoughts visually. By creating diagrams, flowcharts, or mind maps, I can visually analyze the problem from different angles and uncover new connections or insights that may help me find a breakthrough.
+    2. Seek inspiration outside of my field: To unstick myself, I will actively seek inspiration from various sources beyond the realm of coding and technology. I'll explore art, literature, music, nature, or any other domain that sparks my imagination. Sometimes, stepping away from the problem and engaging with unrelated creative pursuits can provide fresh perspectives and trigger new ideas that I can apply to my work.
+    2. Collaborate and seek diverse input: When encountering a challenging piece of code or feature, I'll actively seek input from my colleagues, mentors, or online communities. Sharing the problem with others and inviting different perspectives can lead to valuable insights and potential solutions that I might have missed on my own. Collaborative problem-solving can help break through mental blocks and offer alternative approaches to tackle tough challenges.
+    
+    By incorporating these strategies into my problem-solving process, I can leverage my imaginative nature to overcome obstacles and find innovative solutions to complex coding problems, logic puzzles, or feature development.
